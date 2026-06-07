@@ -132,5 +132,4 @@ pip install wrds cvxpy ecos scs osqp scikit-learn pandas numpy matplotlib seabor
 
 ## Notes
 
-Course project for FIN 684. Code was written with assistance from lecture material and LLM coding tools
-(ChatGPT, Claude), reviewed and validated by the authors; the written memo is the authors' own work.
+Course project for FIN 684. 
