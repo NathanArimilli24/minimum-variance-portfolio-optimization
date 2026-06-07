@@ -1,0 +1,12 @@
+Metric,Sample Covariance,Ledoit-Wolf
+Total Return,315.79%,242.30%
+Annualized Return,13.83%,11.84%
+Annualized Volatility,18.67%,14.03%
+Sharpe Ratio,0.570,0.576
+Sortino Ratio,0.777,0.930
+Maximum Drawdown,-30.88%,-19.20%
+Win Rate,64.4%,59.8%
+Best Month,15.36%,11.76%
+Worst Month,-18.99%,-9.78%
+Skewness,-0.232,0.168
+Kurtosis,1.135,0.409

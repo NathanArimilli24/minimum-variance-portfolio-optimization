@@ -1,0 +1,7 @@
+Metric,Sample Covariance,Ledoit-Wolf
+Average Monthly Turnover,106.7%,25.2%
+Median Monthly Turnover,87.6%,23.4%
+Maximum Monthly Turnover,375.9%,83.0%
+Average Weight Std Dev,0.230,0.082
+Median Weight Std Dev,0.221,0.078
+Maximum Weight Std Dev,0.371,0.115
